@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PC21ConfigurationDataProxy>
+  <Header>
+    <Name>Omron.Cxap.Modules.NexPC21Configuration.EntityDataProxy.PC21ConfigurationProxy</Name>
+    <CreateDateTime>Wed, 04 Feb 2026 13:46:42 GMT</CreateDateTime>
+    <Version>1.00</Version>
+  </Header>
+  <Data>
+    <EntityContextId>d8e53faf-c0bf-412e-8026-50dd8c070295</EntityContextId>
+    <TrackingId>85564d34-9174-485b-a8d6-449823e971db</TrackingId>
+    <SubstanceEntityId>7781759c-423d-4307-bd51-c260c459cf59</SubstanceEntityId>
+    <SubstanceTrackingId>4b08cdd3-f212-47ca-bf75-b381265c1753</SubstanceTrackingId>
+  </Data>
+  <ClassInfo>
+    <Type>NexPC21Configuration</Type>
+    <SubType>PC21ConfigurationProxy</SubType>
+  </ClassInfo>
+</PC21ConfigurationDataProxy>
